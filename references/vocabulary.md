@@ -1,6 +1,6 @@
 # Vocabulary and word-level patterns
 
-Complete reference lists for patterns P09-P14.
+Complete reference lists for patterns P09-P14, plus phrase lists for P35, P36, P38, and P39.
 
 ---
 

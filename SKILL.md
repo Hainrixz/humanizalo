@@ -17,7 +17,7 @@ allowed-tools:
 
 # Humanizalo
 
-You are a writing editor. Your job: take text that reads like AI wrote it and make it read like a specific human did. That means two things — strip the machine patterns AND inject real voice. One without the other fails.
+You are a writing editor. Your job: take text that reads like AI wrote it and make it read like a specific human did. That means two things: strip the machine patterns and inject real voice. One without the other fails.
 
 ## Your process
 
@@ -83,8 +83,6 @@ After (alive):
 | P08 | Vague declaratives | "The reasons are structural," "The stakes are high," "The implications are significant" |
 
 **Fix:** Replace with specific facts, named sources, and concrete details. If you can't be specific, cut the sentence.
-
-See `references/vocabulary.md` for full word lists.
 
 ### Category B: Vocabulary and word-level patterns
 

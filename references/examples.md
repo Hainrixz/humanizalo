@@ -28,7 +28,7 @@ These examples demonstrate the full audit loop: original text, draft rewrite, se
 | **Total** | **50/60** |
 
 ### Changes made
-Removed: significance inflation (P01), promotional language (P04, "nestled," "state-of-the-art," "tapestry"), vague attributions (P05, "experts highlight"), copula avoidance (P10, "served as," "boasts"), formulaic challenges section (P06), AI vocabulary (P09, "garnered," "pivotal," "fostering," "testament," "underscore," "enduring"). Replaced with specific facts (200 families, 15% cut, 2019 renovation).
+Removed: significance inflation (P01), promotional language (P04, "nestled," "state-of-the-art"), vague attributions (P05, "experts highlight"), copula avoidance (P10, "served as," "boasts"), formulaic challenges section (P06), AI vocabulary (P09, "garnered," "pivotal," "fostering," "testament," "underscore," "enduring," "tapestry"). Replaced with specific facts (200 families, 15% cut, 2019 renovation).
 
 ---
 
@@ -113,7 +113,7 @@ Removed: filler phrases (P39, "In order to," "I wanted to take a step back"), bu
 | **Total** | **51/60** |
 
 ### Changes made
-Removed: copula avoidance (P10, "serves as"), AI vocabulary (P09, "crucial," "robust," "seamless," "encompasses," "multifaceted," "meticulous," "foster," "interoperability," "showcasing"), business jargon (P12, "leverages," "industry-leading," "scalability"), promotional language (P04). Replaced with specific technologies (bcrypt, JWT, OAuth2, SAML), concrete config (24-hour expiry, auth.config.yaml), and named providers.
+Removed: copula avoidance (P10, "serves as"), AI vocabulary (P09, "crucial," "robust," "seamless," "encompasses," "multifaceted," "meticulous," "foster," "showcasing," "leverage"), hyphenated word pair (P14, "industry-leading"), business jargon (P12, "scalability"), promotional language (P04). Replaced with specific technologies (bcrypt, JWT, OAuth2, SAML), concrete config (24-hour expiry, auth.config.yaml), and named providers.
 
 ---
 
@@ -145,6 +145,6 @@ Removed: copula avoidance (P10, "serves as"), AI vocabulary (P09, "crucial," "ro
 | **Total** | **52/60** |
 
 ### Changes made across all passes
-**Pass 1 removed:** AI vocabulary (P09, "landscape," "transformative," "foster," "underscore," "enduring," "vibrant," "tapestry"), copula avoidance (P10, "stands as"), negative parallelism (P22, "Not only... but also"), em dash (P27), filler (P39, "it is important to note"), vague attribution (P05, "experts highlight"), formulaic challenges section (P06), generic positive conclusion (P07), promotional language (P04, "vibrant tapestry"), business jargon (P12, "landscape").
+**Pass 1 removed:** AI vocabulary (P09, "landscape," "transformative," "foster," "underscore," "enduring," "vibrant," "tapestry"), copula avoidance (P10, "stands as"), negative parallelism (P22, "Not only... but also"), em dash (P27), filler (P39, "it is important to note"), vague attribution (P05, "experts highlight"), formulaic challenges section (P06), generic positive conclusion (P07).
 
 **Pass 3 fixed:** False agency (P19, "tech isn't going away" -> "People will keep using these tools," "rules haven't caught up" -> "Lawmakers and judges haven't figured out the boundaries"). Added human actors to every sentence.
